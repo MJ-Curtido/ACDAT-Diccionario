@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ManuelJesusCurtidoRosado2DAM</string>
+    <string name="lblDiccionario">Diccionario</string>
+    <string name="btnIntentInsertar">Insertar/Modificar</string>
+    <string name="tbCadenaEspanyol">Palabra/Expresión en Español</string>
+    <string name="tbCadenaIngles">Palabra/Expresión en Inglés</string>
+    <string name="rbtnPalabra">Palabra</string>
+    <string name="rbtnExpresion">Expresión</string>
+    <string name="btnInsertarCadena">Continuar</string>
+</resources>
